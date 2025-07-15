@@ -1,0 +1,5 @@
+{
+  "name": "MediBot RAG",
+  "description": "A medical chatbot that uses a Retrieval-Augmented Generation (RAG) system to answer questions based on a user-uploaded PDF document.",
+  "requestFramePermissions": []
+}
